@@ -1,0 +1,12 @@
+{
+  "name": "MARON chat3",
+  "short_name": "MARON chat3",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#08b9b0",
+  "icons": [
+    {"src":"./maron-chat3-icon.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"},
+    {"src":"./maron-chat3-icon-180.png","sizes":"180x180","type":"image/png","purpose":"any"}
+  ]
+}
